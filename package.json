@@ -1,0 +1,15 @@
+{
+  "name": "3.creacion_de_variables",
+  "version": "1.0.0",
+  "description": "Entregable N°2 para el curso JS de Open Bootcamp ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 3.creacion_de_variables.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "variables"
+  ],
+  "author": "Dayvid Ramos",
+  "license": "ISC"
+}
