@@ -1,0 +1,21 @@
+{
+  "name": "hola_mundo_js",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto con JS en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node index.js",
+    "saludo": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hola mundo",
+    "primer proyecto"
+
+  ],
+  "author": "Dayvid Ramos",
+  "license": "ISC"
+}
+
+
